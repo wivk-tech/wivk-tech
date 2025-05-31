@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on AI/ML Projects
 - 📫 reach me at mailme.wivk@gmail.com
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm wierd
 
 <!---

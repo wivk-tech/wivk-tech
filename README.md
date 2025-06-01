@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @wivk-tech
+- 🏫 BS in Data Science & Programming @ IIT Madras
+- 🏫 BTech in Computer Science & Engineering @ LNJPIT Chapra, BEU Patna
 - 👀 I’m interested in Programming and Data Science
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on AI/ML Projects
